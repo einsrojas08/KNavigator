@@ -1,0 +1,500 @@
+Patient ID,Illness
+1,Children with Childhood Cancer
+2,Throat Cancer
+3,Women with Cervical Cancer
+4,Thyroid Cancer 
+5,Patients with Diabetes
+6,Type of Arthritis with a long term inflammation of joints and spine
+7,Patient with Hepatitis
+8,Genetic Disorder of Nervous System
+9,Nueromuscular Disease
+10,Type of Arthritis with a long term inflammation of joints and spine
+11,Thyroid Cancer 
+12,Chronic Kidney Disease
+13,Throat Cancer
+14,Blood Disorder
+15,Patient Suffering with Arthritis
+16,Depression
+17,Nueromuscular Disease
+18,Patients with Diabetes
+19, Type 1 Diabetes Patients
+20,Lack of sufficient blood Clothing
+21,Lack of sufficient blood Clothing
+22,Depression
+23,Women with Cervical Cancer
+24,Women with Cervical Cancer
+25,Chronic Kidney Disease
+26,Thyroid Cancer 
+27,Patients with Diabetes
+28,Disoder on muscle and tone posture causing damage to brain
+29,Throat Cancer
+30,Depression
+31,Depression
+32,Patients with Diabetes
+33,Chronic Myeloid Leukemia
+34,Thyroid Cancer 
+35,Patients having sideway curvature of spine
+36,Nueromuscular Disease
+37,Depression
+38,Women with Breast Cancer
+39, Type 1 Diabetes Patients
+40,Patients with Psoriasis
+41,Depression
+42,Skin Diseases with too much protein collagen
+43,Groups of Surviving Women with HIV
+44,Chronic Kidney Disease
+45,Blood Disorder
+46,Groups of Men Surviving HIV
+47,Nueromuscular Disease
+48,Throat Cancer
+49,Depression
+50,Depression
+51,Children with Childhood Cancer
+52,Skin Diseases with too much protein collagen
+53,RARE Cancers
+54,Skin Diseases with too much protein collagen
+55,Children with cancer
+56,Depression
+57,Type of Arthritis with a long term inflammation of joints and spine
+58,Depression
+59,Ballooning of blood vessel in the brain
+60,Thyroid Cancer 
+61,Skin Diseases with too much protein collagen
+62,Caring for Senior Citizen
+63,Women with Breast Cancer
+64,Women with Breast Cancer
+65,Chronic Myeloid Leukemia
+66,Chronic Kidney Disease
+67,Chronic Myeloid Leukemia
+68,Nueromuscular Disease
+69,Type of Arthritis with a long term inflammation of joints and spine
+70,Patients with Diabetes
+71,Blood Disorder
+72,Skin Diseases with too much protein collagen
+73,Children with cancer
+74,Children with Childhood Cancer
+75,Patients with Diabetes
+76,RARE Cancers
+77,Throat Cancer
+78,Disease that damage and weakens the muscle
+79,Children with cancer
+80,Thyroid Cancer 
+81,Depression
+82,Patients having sideway curvature of spine
+83,Patients with Rheumatoid
+84,Patient with Hepatitis
+85,Chronic Myeloid Leukemia
+86,Patients with Psoriasis
+87,Patient with Hepatitis
+88,Patients with Psoriasis
+89,Chronic Kidney Disease
+90,Genetic Disorder of Nervous System
+91,Caring for Senior Citizen
+92,Nueromuscular Disease
+93,Ballooning of blood vessel in the brain
+94, Type 1 Diabetes Patients
+95,Caring for Senior Citizen
+96,Children with Childhood Cancer
+97,Thyroid Cancer 
+98,Patients having sideway curvature of spine
+99,Genetic Disorder of Nervous System
+100,Type of Arthritis with a long term inflammation of joints and spine
+101,Thyroid Cancer 
+102, Type 1 Diabetes Patients
+103,Patient with Hepatitis
+104,Groups of Surviving Women with HIV
+105,Depression
+106,Thyroid Cancer 
+107,Patients with Diabetes
+108,Children with Childhood Cancer
+109,Disoder on muscle and tone posture causing damage to brain
+110,Groups of Surviving Women with HIV
+111,Thyroid Cancer 
+112,Groups of Mothers of Children with Acute Myeloid Leukemia
+113,Women with Breast Cancer
+114,Children with Childhood Cancer
+115,Hearing Disability
+116,Chronic Myeloid Leukemia
+117,Patients with Rheumatoid
+118,Lack of sufficient blood Clothing
+119,Depression
+120,Chronic Myeloid Leukemia
+121,Type of Arthritis with a long term inflammation of joints and spine
+122,Disoder on muscle and tone posture causing damage to brain
+123,Throat Cancer
+124,Patients with Diabetes
+125,Disoder on muscle and tone posture causing damage to brain
+126,Patients with Psoriasis
+127,Lack of sufficient blood Clothing
+128,Blood Disorder
+129,Children with Childhood Cancer
+130,Nueromuscular Disease
+131,Women with Cervical Cancer
+132,Patients with Rheumatoid
+133,Patients with Diabetes
+134,Genetic Disorder of Nervous System
+135,Patients having sideway curvature of spine
+136,Ballooning of blood vessel in the brain
+137,Groups of Mothers of Children with Acute Myeloid Leukemia
+138,Ballooning of blood vessel in the brain
+139,Lack of sufficient blood Clothing
+140, Type 1 Diabetes Patients
+141,Children with Childhood Cancer
+142,Patient Suffering with Arthritis
+143,Patient with Hepatitis
+144,Groups of Surviving Women with HIV
+145,Thyroid Cancer 
+146,Skin Diseases with too much protein collagen
+147,Throat Cancer
+148,Women with Breast Cancer
+149,Thyroid Cancer 
+150,Patient Suffering with Arthritis
+151,Depression
+152,Disease that damage and weakens the muscle
+153,Depression
+154,Children with Childhood Cancer
+155,Depression
+156,Patients with Rheumatoid
+157,Groups of Mothers of Children with Acute Myeloid Leukemia
+158, Type 1 Diabetes Patients
+159,Patient with Hepatitis
+160,Patients having sideway curvature of spine
+161,Patient Suffering with Arthritis
+162,Blood Disorder
+163,Groups of Surviving Women with HIV
+164,Ballooning of blood vessel in the brain
+165,Thyroid Cancer 
+166,Blood Disorder
+167,Skin Diseases with too much protein collagen
+168,Throat Cancer
+169,Children with Childhood Cancer
+170,Patient Suffering with Arthritis
+171,Throat Cancer
+172,Thyroid Cancer 
+173,Throat Cancer
+174,Women with Cervical Cancer
+175,Depression
+176,Disoder on muscle and tone posture causing damage to brain
+177,Hearing Disability
+178,Thyroid Cancer 
+179,Thyroid Cancer 
+180,Nueromuscular Disease
+181,Children with Childhood Cancer
+182,Patients having sideway curvature of spine
+183,Women with Breast Cancer
+184,Chronic Kidney Disease
+185,Caring for Senior Citizen
+186,Hearing Disability
+187,Chronic Kidney Disease
+188,Hearing Disability
+189,Groups of Surviving Women with HIV
+190,Children with Childhood Cancer
+191,Groups of Men Surviving HIV
+192, Type 1 Diabetes Patients
+193,Throat Cancer
+194,Children with cancer
+195,Depression
+196,Hearing Disability
+197,Children with Childhood Cancer
+198,Lack of sufficient blood Clothing
+199,Children with Childhood Cancer
+200,Throat Cancer
+201,Thyroid Cancer 
+202,Patients with Psoriasis
+203,Lack of sufficient blood Clothing
+204,Women with Breast Cancer
+205,Patient Suffering with Arthritis
+206,Skin Diseases with too much protein collagen
+207,Children with cancer
+208,Children with Childhood Cancer
+209,Depression
+210,Patients having sideway curvature of spine
+211,Groups of Mothers of Children with Acute Myeloid Leukemia
+212,Patients having sideway curvature of spine
+213,Caring for Senior Citizen
+214,Patients with Rheumatoid
+215,Thyroid Cancer 
+216,Disoder on muscle and tone posture causing damage to brain
+217,Blood Disorder
+218, Type 1 Diabetes Patients
+219,Hearing Disability
+220,Children with Childhood Cancer
+221,Throat Cancer
+222,Groups of Mothers of Children with Acute Myeloid Leukemia
+223,Genetic Disorder of Nervous System
+224,Nueromuscular Disease
+225,Patient with Hepatitis
+226,Nueromuscular Disease
+227,Lack of sufficient blood Clothing
+228,Children with cancer
+229,Thyroid Cancer 
+230,Groups of Surviving Women with HIV
+231,Patients with Diabetes
+232,Lack of sufficient blood Clothing
+233,Type of Arthritis with a long term inflammation of joints and spine
+234,Women with Cervical Cancer
+235,Patients having sideway curvature of spine
+236,Ballooning of blood vessel in the brain
+237,Disoder on muscle and tone posture causing damage to brain
+238,Blood Disorder
+239,Children with Childhood Cancer
+240,Disease that damage and weakens the muscle
+241,Patients with Diabetes
+242,Blood Disorder
+243,Women with Cervical Cancer
+244,Patients having sideway curvature of spine
+245,Patients with Diabetes
+246,Thyroid Cancer 
+247,Throat Cancer
+248,Chronic Myeloid Leukemia
+249,Groups of Men Surviving HIV
+250,Children with Childhood Cancer
+251,RARE Cancers
+252,RARE Cancers
+253,Nueromuscular Disease
+254,Type of Arthritis with a long term inflammation of joints and spine
+255,Women with Breast Cancer
+256,Thyroid Cancer 
+257,Blood Disorder
+258,Groups of Men Surviving HIV
+259,Chronic Myeloid Leukemia
+260,Patients with Rheumatoid
+261,Chronic Kidney Disease
+262,Groups of Men Surviving HIV
+263,Throat Cancer
+264,Chronic Myeloid Leukemia
+265,Groups of Mothers of Children with Acute Myeloid Leukemia
+266,Throat Cancer
+267,Throat Cancer
+268,Blood Disorder
+269,Depression
+270,Women with Cervical Cancer
+271,Ballooning of blood vessel in the brain
+272,Patients with Diabetes
+273,Hearing Disability
+274,Nueromuscular Disease
+275,Genetic Disorder of Nervous System
+276,Groups of Mothers of Children with Acute Myeloid Leukemia
+277,Nueromuscular Disease
+278,Children with Childhood Cancer
+279,Genetic Disorder of Nervous System
+280,Blood Disorder
+281,Children with Childhood Cancer
+282,Patients with Diabetes
+283,Children with cancer
+284,Thyroid Cancer 
+285,Caring for Senior Citizen
+286,Groups of Surviving Women with HIV
+287,Patients with Diabetes
+288,Ballooning of blood vessel in the brain
+289,Groups of Surviving Women with HIV
+290,Blood Disorder
+291,Chronic Myeloid Leukemia
+292,Patients with Diabetes
+293,Caring for Senior Citizen
+294,Children with Childhood Cancer
+295,Disease that damage and weakens the muscle
+296,Patient with Hepatitis
+297,Groups of Mothers of Children with Acute Myeloid Leukemia
+298,Blood Disorder
+299,Genetic Disorder of Nervous System
+300,Women with Cervical Cancer
+301,Patients with Diabetes
+302,Patients with Psoriasis
+303,Blood Disorder
+304,Genetic Disorder of Nervous System
+305,Patients with Psoriasis
+306,Patients with Rheumatoid
+307, Type 1 Diabetes Patients
+308,RARE Cancers
+309,Patients having sideway curvature of spine
+310,Groups of Men Surviving HIV
+311,Type of Arthritis with a long term inflammation of joints and spine
+312,Skin Diseases with too much protein collagen
+313,Skin Diseases with too much protein collagen
+314,Patients having sideway curvature of spine
+315,Disoder on muscle and tone posture causing damage to brain
+316,RARE Cancers
+317, Type 1 Diabetes Patients
+318,Patients having sideway curvature of spine
+319,Depression
+320,Disease that damage and weakens the muscle
+321,Blood Disorder
+322, Type 1 Diabetes Patients
+323,Depression
+324,Genetic Disorder of Nervous System
+325,Disease that damage and weakens the muscle
+326,Groups of Men Surviving HIV
+327,Patient Suffering with Arthritis
+328,Children with cancer
+329,Patients with Diabetes
+330,Caring for Senior Citizen
+331,Chronic Kidney Disease
+332,Disease that damage and weakens the muscle
+333,Lack of sufficient blood Clothing
+334,Chronic Kidney Disease
+335,Depression
+336,Type of Arthritis with a long term inflammation of joints and spine
+337,Depression
+338,Women with Cervical Cancer
+339,Depression
+340,Patients having sideway curvature of spine
+341,Chronic Kidney Disease
+342,Patients having sideway curvature of spine
+343,Blood Disorder
+344,Children with cancer
+345,Throat Cancer
+346,Hearing Disability
+347,Depression
+348,Chronic Kidney Disease
+349,Blood Disorder
+350,Hearing Disability
+351,Patients with Rheumatoid
+352,Children with Childhood Cancer
+353,Disease that damage and weakens the muscle
+354,Women with Cervical Cancer
+355,Depression
+356,Thyroid Cancer 
+357,Disease that damage and weakens the muscle
+358,Patient with Hepatitis
+359,Women with Cervical Cancer
+360,Disease that damage and weakens the muscle
+361,Groups of Mothers of Children with Acute Myeloid Leukemia
+362,Groups of Men Surviving HIV
+363,Women with Breast Cancer
+364,Patients having sideway curvature of spine
+365,Patients having sideway curvature of spine
+366,Groups of Mothers of Children with Acute Myeloid Leukemia
+367,Groups of Men Surviving HIV
+368,Ballooning of blood vessel in the brain
+369,Disease that damage and weakens the muscle
+370,Thyroid Cancer 
+371,Patient Suffering with Arthritis
+372,Skin Diseases with too much protein collagen
+373,Thyroid Cancer 
+374,Children with cancer
+375,Nueromuscular Disease
+376,Throat Cancer
+377,Women with Breast Cancer
+378,Groups of Surviving Women with HIV
+379,Groups of Surviving Women with HIV
+380,Children with Childhood Cancer
+381,Hearing Disability
+382,Blood Disorder
+383,Patients with Psoriasis
+384,Patients with Psoriasis
+385,Patients with Diabetes
+386,Chronic Kidney Disease
+387,Chronic Kidney Disease
+388,Ballooning of blood vessel in the brain
+389,RARE Cancers
+390,Children with cancer
+391,Caring for Senior Citizen
+392,Blood Disorder
+393,Patients with Psoriasis
+394,Genetic Disorder of Nervous System
+395,Patients with Diabetes
+396,Groups of Mothers of Children with Acute Myeloid Leukemia
+397,Depression
+398, Type 1 Diabetes Patients
+399,Patient Suffering with Arthritis
+400,Patients with Rheumatoid
+401,Depression
+402,Blood Disorder
+403,Nueromuscular Disease
+404,Blood Disorder
+405, Type 1 Diabetes Patients
+406,Children with cancer
+407,Children with Childhood Cancer
+408,Groups of Mothers of Children with Acute Myeloid Leukemia
+409,Caring for Senior Citizen
+410,Disoder on muscle and tone posture causing damage to brain
+411,Throat Cancer
+412,Depression
+413,Patients having sideway curvature of spine
+414,Women with Cervical Cancer
+415,Caring for Senior Citizen
+416,Ballooning of blood vessel in the brain
+417,Nueromuscular Disease
+418,Throat Cancer
+419,Lack of sufficient blood Clothing
+420,Ballooning of blood vessel in the brain
+421,Patient with Hepatitis
+422,Depression
+423,Genetic Disorder of Nervous System
+424,Groups of Surviving Women with HIV
+425,Thyroid Cancer 
+426,Disease that damage and weakens the muscle
+427,Type of Arthritis with a long term inflammation of joints and spine
+428,Patients having sideway curvature of spine
+429,Women with Breast Cancer
+430,Blood Disorder
+431,Patients with Rheumatoid
+432,Depression
+433,Chronic Myeloid Leukemia
+434,Throat Cancer
+435,Patients with Psoriasis
+436,Skin Diseases with too much protein collagen
+437,RARE Cancers
+438,Patients having sideway curvature of spine
+439,Hearing Disability
+440,Groups of Men Surviving HIV
+441,Children with Childhood Cancer
+442,Groups of Surviving Women with HIV
+443,Patient with Hepatitis
+444,Depression
+445,Patients with Diabetes
+446,Patients having sideway curvature of spine
+447,Patients having sideway curvature of spine
+448,Women with Cervical Cancer
+449,Women with Breast Cancer
+450,Groups of Men Surviving HIV
+451,Disoder on muscle and tone posture causing damage to brain
+452,Children with cancer
+453,Depression
+454,Chronic Kidney Disease
+455,Blood Disorder
+456, Type 1 Diabetes Patients
+457,Groups of Men Surviving HIV
+458,RARE Cancers
+459,Disease that damage and weakens the muscle
+460,Patients with Psoriasis
+461,Patient with Hepatitis
+462,Chronic Kidney Disease
+463,Patients with Rheumatoid
+464,Women with Cervical Cancer
+465,Genetic Disorder of Nervous System
+466,Disoder on muscle and tone posture causing damage to brain
+467,Disoder on muscle and tone posture causing damage to brain
+468,Groups of Mothers of Children with Acute Myeloid Leukemia
+469,Depression
+470,Blood Disorder
+471,Children with cancer
+472,Patients with Diabetes
+473,Depression
+474,Patients having sideway curvature of spine
+475,Lack of sufficient blood Clothing
+476,Patients with Diabetes
+477,Caring for Senior Citizen
+478,Women with Cervical Cancer
+479,Type of Arthritis with a long term inflammation of joints and spine
+480, Type 1 Diabetes Patients
+481,Throat Cancer
+482,Patient Suffering with Arthritis
+483,Children with cancer
+484,Blood Disorder
+485,Patient with Hepatitis
+486,Patients having sideway curvature of spine
+487,Chronic Myeloid Leukemia
+488,Patients with Psoriasis
+489,Patients with Diabetes
+490,Patient Suffering with Arthritis
+491,Patients with Rheumatoid
+492,Children with Childhood Cancer
+493,Patient Suffering with Arthritis
+494,Hearing Disability
+495,Throat Cancer
+496,Groups of Men Surviving HIV
+497,Patients with Rheumatoid
+498,Children with cancer
+499,Patient Suffering with Arthritis
